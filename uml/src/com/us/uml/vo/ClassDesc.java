@@ -2,7 +2,7 @@
  * Copyright (c) 2016, S.F. Express Inc. All rights reserved.
  */
 
-package com.us.uml.back;
+package com.us.uml.vo;
 
 import java.util.ArrayList;
 import java.util.Arrays;
